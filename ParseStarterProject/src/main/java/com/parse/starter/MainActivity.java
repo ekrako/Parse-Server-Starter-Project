@@ -26,6 +26,7 @@ import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.parse.SaveCallback;
+import com.parse.SignUpCallback;
 
 import java.util.List;
 
@@ -37,84 +38,44 @@ public class MainActivity extends AppCompatActivity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
-    /*
-    ParseObject score = new ParseObject("Score");
-    score.put("username","eran");
-    score.put("score",45);
-    score.saveInBackground(new SaveCallback() {
-      @Override
-      public void done(ParseException e) {
-        if (e ==null){
-          Log.i("Succes","we Saved the score");
-          Toast.makeText(MainActivity.this, "score saved", Toast.LENGTH_SHORT).show();
-        }else{
-          e.printStackTrace();
-        }
-      }
-    });
 
-    ParseQuery<ParseObject> pq = ParseQuery.getQuery("Score");
+/* sign up
+    final ParseUser user = new ParseUser();
+    user.setUsername("ekrako");
+    user.setPassword("password");
 
-    pq.getInBackground("IVKZZ4oq5Z", new GetCallback<ParseObject>() {
-      @Override
-      public void done(ParseObject object, ParseException e) {
-        if (e ==null && object != null ){
-          Log.i("Success","we get the score "+object.getString("username")+" with score of "+String.valueOf(object.getInt("score")));
-          Toast.makeText(MainActivity.this, object.getString("username")+" with score of "+String.valueOf(object.getInt("score")), Toast.LENGTH_SHORT).show();
-        }else{
-          e.printStackTrace();
-        }
-      }
-    });
-    ParseObject tweet = new ParseObject("Tweet");
-    tweet.put("username","ekrako");
-    tweet.put("tweet","My Firest tweeet");
-    tweet.saveInBackground(new SaveCallback() {
+    user.signUpInBackground(new SignUpCallback() {
       @Override
       public void done(ParseException e) {
         if (e!=null){
           e.printStackTrace();
           return;
         }
-        Log.i("parse object","tweet saved");
+        Log.i("Sign Up ", "User: "+user.getUsername());
+        Toast.makeText(MainActivity.this, "Sign Up User: "+user.getUsername(), Toast.LENGTH_SHORT).show();
+
       }
     });
-    ParseQuery<ParseObject> query = ParseQuery.getQuery("Tweet");
-     query.getInBackground("xyFJew6axl", new GetCallback<ParseObject>() {
-       @Override
-       public void done(ParseObject object, ParseException e) {
-         if (e!=null){
-           e.printStackTrace();
-           return;
-         }
-         Log.i("Success","we get the score "+object.getString("username")+" just tweeted: "+object.getString("tweet"));
-         Toast.makeText(MainActivity.this, object.getString("username")+" just tweeted: "+object.getString("tweet"), Toast.LENGTH_SHORT).show();
-         object.put("tweet","just editing");
-         object.saveInBackground();
-       }
-     });*/
-    ParseQuery<ParseObject> query = ParseQuery.getQuery("Score");
-    query.whereLessThan("score",50);
-    query.findInBackground(new FindCallback<ParseObject>() {
-      @Override
-      public void done(List<ParseObject> objects, ParseException e) {
-        if (e!=null){
-          e.printStackTrace();
-          return;
+    //login
+    ParseUser.logInInBackground("ekrako","pass11word",new LogInCallback(){
+
+        @Override
+        public void done(ParseUser user, ParseException e) {
+            if (e!=null){
+                e.printStackTrace();
+                return;
+            }
+            Log.i("Login succesfully ", "User: "+user.getUsername());
+            Toast.makeText(MainActivity.this, "Login User: "+user.getUsername(), Toast.LENGTH_SHORT).show();
         }
-        if (objects.size()<1){
-          Log.i("no Objects","no object found in parse");
-          return;
-        }
-        for (ParseObject object:objects){
-          Integer score = object.getInt("score");
-          object.put("score",score+20);
-          object.saveInBackground();
-          Log.i("username",object.getString("username"));
-          Log.i("score",Integer.toString(object.getInt("score")));
-        }
-      }
     });
+    */
+    ParseUser.logOut();
+    if(ParseUser.getCurrentUser()!=null){
+        Log.i("already logged in: ",ParseUser.getCurrentUser().getUsername());
+    } else {
+      Log.i("no signed in: ","none");
+    }
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
   }
 
