@@ -7,12 +7,19 @@
  * of patent rights can be found in the PATENTS file in the same directory.
  */
 package com.parse.starter;
+import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
+import android.widget.Button;
+import android.widget.EditText;
 import android.widget.Switch;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
@@ -30,24 +37,54 @@ import com.parse.SignUpCallback;
 
 import java.util.List;
 
+import static com.google.android.gms.analytics.internal.zzy.v;
 
-public class MainActivity extends AppCompatActivity {
 
+public class MainActivity extends AppCompatActivity  {
 
+  EditText usernameEditText,passwordEditText;
+  Boolean signup=true;
+  Button button;
+  TextView switchTextView;
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
+    usernameEditText = (EditText) findViewById(R.id.usernameEditText);
+    passwordEditText = (EditText) findViewById(R.id.passwordEditText);
+    passwordEditText.setOnKeyListener(new View.OnKeyListener() {
+      @Override
+      public boolean onKey(View view, int i, KeyEvent keyEvent) {
+        if (i==KeyEvent.KEYCODE_ENTER && keyEvent.getAction()==KeyEvent.ACTION_DOWN){
+          button.callOnClick();
+        }
+        return false;
+      }
+    });
+    
+    button = (Button) findViewById(R.id.button);
+    switchTextView = (TextView) findViewById(R.id.switchTextView);
 
-/* sign up
+
+    ParseAnalytics.trackAppOpenedInBackground(getIntent());
+  }
+
+
+  public void signUp(View view) {
+    if (usernameEditText.getText().toString().isEmpty() || passwordEditText.getText().toString().isEmpty()){
+      Toast.makeText(this, "Username and password are required", Toast.LENGTH_SHORT).show();
+      return;
+    }
+
     final ParseUser user = new ParseUser();
-    user.setUsername("ekrako");
-    user.setPassword("password");
+    user.setUsername(usernameEditText.getText().toString());
+    user.setPassword(passwordEditText.getText().toString());
 
     user.signUpInBackground(new SignUpCallback() {
       @Override
       public void done(ParseException e) {
         if (e!=null){
+          Toast.makeText(MainActivity.this, e.getLocalizedMessage(), Toast.LENGTH_SHORT).show();
           e.printStackTrace();
           return;
         }
@@ -56,27 +93,59 @@ public class MainActivity extends AppCompatActivity {
 
       }
     });
-    //login
-    ParseUser.logInInBackground("ekrako","pass11word",new LogInCallback(){
+  }
 
-        @Override
-        public void done(ParseUser user, ParseException e) {
-            if (e!=null){
-                e.printStackTrace();
-                return;
-            }
-            Log.i("Login succesfully ", "User: "+user.getUsername());
-            Toast.makeText(MainActivity.this, "Login User: "+user.getUsername(), Toast.LENGTH_SHORT).show();
-        }
-    });
-    */
-    ParseUser.logOut();
-    if(ParseUser.getCurrentUser()!=null){
-        Log.i("already logged in: ",ParseUser.getCurrentUser().getUsername());
-    } else {
-      Log.i("no signed in: ","none");
+  public void login(View view) {
+    if (usernameEditText.getText().toString().isEmpty() || passwordEditText.getText().toString().isEmpty()){
+      Toast.makeText(this, "Username and password are required", Toast.LENGTH_SHORT).show();
+      return;
     }
-    ParseAnalytics.trackAppOpenedInBackground(getIntent());
+
+    ParseUser.logInInBackground(usernameEditText.getText().toString(), passwordEditText.getText().toString(), new LogInCallback() {
+      @Override
+      public void done(ParseUser user, ParseException e) {
+        if (e!=null){
+          Toast.makeText(MainActivity.this, e.getLocalizedMessage(), Toast.LENGTH_SHORT).show();
+          e.printStackTrace();
+          return;
+        }
+        Log.i("Login ", "User: "+user.getUsername());
+      }
+    });
+
+
+  }
+
+  public void switchLoginSignup(View view) {
+    if (signup){
+      button.setText("Login");
+      switchTextView.setText("Or, Sign Up");
+      button.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+          login(view);
+        }
+      });
+    }else{
+      button.setText("Sign Up");
+      switchTextView.setText("Or, Login");
+      button.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View view) {
+          signUp(view);
+        }
+      });
+    }
+    signup = !signup;
+  }
+  public static void setKeyboard(Context context, View view,Boolean show) {
+    InputMethodManager imm = (InputMethodManager) context.getSystemService(Activity.INPUT_METHOD_SERVICE);
+    if (show){
+      imm.showSoftInputFromInputMethod(view.getWindowToken(), 0);
+    }else {
+      imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
+    }
+
   }
 
 }

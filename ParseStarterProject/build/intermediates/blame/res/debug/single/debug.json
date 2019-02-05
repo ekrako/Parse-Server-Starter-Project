@@ -216,10 +216,6 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-plus-9.4.0.aar/676b80de6a7d6cdb9054ce953e519d7b/res/drawable-mdpi-v4/ic_plusone_small_off_client.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_dark.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/color/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_pause_light.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-xhdpi/ic_pause_light.png"
     },
@@ -2120,6 +2116,10 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/anim/abc_fade_out.xml"
     },
     {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_instagram_logo.png.flat",
+        "source": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/drawable/instagram_logo.png"
+    },
+    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi_ic_cast_light.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-hdpi/ic_cast_light.png"
     },
@@ -2858,10 +2858,6 @@
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_abc_background_cache_hint_selector_material_light.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/color/abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_moreoverflow_mtrl_alpha.png.flat",
