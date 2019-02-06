@@ -976,7 +976,6 @@ id icon_uri
 id icon_view
 id ifRoom
 id image
-id imageView2
 id index_entity_types
 id info
 id instant_message
@@ -994,6 +993,7 @@ id line3
 id listMode
 id list_item
 id loading_indicator
+id logoImageView
 id logo_only
 id main_container
 id match_global_nicknames
@@ -1102,6 +1102,7 @@ id up
 id url
 id useLogo
 id usernameEditText
+id usersListView
 id wide
 id withText
 id wrap
@@ -1139,6 +1140,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_users
 layout cast_expanded_controller_activity
 layout cast_help_text
 layout cast_intro_overlay

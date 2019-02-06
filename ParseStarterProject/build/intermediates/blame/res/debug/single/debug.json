@@ -1928,6 +1928,10 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable/cast_ic_notification_rewind30.xml"
     },
     {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_users.xml.flat",
+        "source": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_users.xml"
+    },
+    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi_ic_media_route_off_mono_dark.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-mdpi/ic_media_route_off_mono_dark.png"
     },

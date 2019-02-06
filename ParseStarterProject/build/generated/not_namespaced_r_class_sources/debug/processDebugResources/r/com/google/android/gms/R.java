@@ -406,16 +406,16 @@ public final class R {
         public static final int icon_only = 0x7f08006a;
         public static final int icon_uri = 0x7f08006b;
         public static final int icon_view = 0x7f08006c;
-        public static final int index_entity_types = 0x7f080070;
-        public static final int instant_message = 0x7f080072;
-        public static final int intent_action = 0x7f080073;
-        public static final int intent_activity = 0x7f080074;
-        public static final int intent_data = 0x7f080075;
-        public static final int intent_data_id = 0x7f080076;
-        public static final int intent_extra_data = 0x7f080077;
-        public static final int large_icon_uri = 0x7f080079;
-        public static final int light = 0x7f08007b;
-        public static final int loading_indicator = 0x7f080080;
+        public static final int index_entity_types = 0x7f08006f;
+        public static final int instant_message = 0x7f080071;
+        public static final int intent_action = 0x7f080072;
+        public static final int intent_activity = 0x7f080073;
+        public static final int intent_data = 0x7f080074;
+        public static final int intent_data_id = 0x7f080075;
+        public static final int intent_extra_data = 0x7f080076;
+        public static final int large_icon_uri = 0x7f080078;
+        public static final int light = 0x7f08007a;
+        public static final int loading_indicator = 0x7f08007f;
         public static final int logo_only = 0x7f080081;
         public static final int main_container = 0x7f080082;
         public static final int match_global_nicknames = 0x7f080083;
@@ -462,8 +462,8 @@ public final class R {
         public static final int title_view = 0x7f0800e5;
         public static final int toolbar = 0x7f0800e6;
         public static final int url = 0x7f0800ea;
-        public static final int wide = 0x7f0800ed;
-        public static final int wrap_content = 0x7f0800f0;
+        public static final int wide = 0x7f0800ee;
+        public static final int wrap_content = 0x7f0800f1;
     }
     public static final class integer {
         private integer() {}
@@ -474,16 +474,16 @@ public final class R {
     public static final class layout {
         private layout() {}
 
-        public static final int cast_expanded_controller_activity = 0x7f0a001a;
-        public static final int cast_help_text = 0x7f0a001b;
-        public static final int cast_intro_overlay = 0x7f0a001c;
-        public static final int cast_mini_controller = 0x7f0a001d;
-        public static final int cast_tracks_chooser_dialog_layout = 0x7f0a001e;
-        public static final int cast_tracks_chooser_dialog_row_layout = 0x7f0a001f;
-        public static final int place_autocomplete_fragment = 0x7f0a002b;
-        public static final int place_autocomplete_item_powered_by_google = 0x7f0a002c;
-        public static final int place_autocomplete_item_prediction = 0x7f0a002d;
-        public static final int place_autocomplete_progress = 0x7f0a002e;
+        public static final int cast_expanded_controller_activity = 0x7f0a001b;
+        public static final int cast_help_text = 0x7f0a001c;
+        public static final int cast_intro_overlay = 0x7f0a001d;
+        public static final int cast_mini_controller = 0x7f0a001e;
+        public static final int cast_tracks_chooser_dialog_layout = 0x7f0a001f;
+        public static final int cast_tracks_chooser_dialog_row_layout = 0x7f0a0020;
+        public static final int place_autocomplete_fragment = 0x7f0a002c;
+        public static final int place_autocomplete_item_powered_by_google = 0x7f0a002d;
+        public static final int place_autocomplete_item_prediction = 0x7f0a002e;
+        public static final int place_autocomplete_progress = 0x7f0a002f;
     }
     public static final class raw {
         private raw() {}

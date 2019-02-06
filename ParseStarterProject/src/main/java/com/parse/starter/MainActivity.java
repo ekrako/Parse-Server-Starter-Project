@@ -40,7 +40,8 @@ import java.util.List;
 import static com.google.android.gms.analytics.internal.zzy.v;
 
 
-public class MainActivity extends AppCompatActivity  {
+public class MainActivity extends AppCompatActivity
+{
 
   EditText usernameEditText,passwordEditText;
   Boolean signup=true;
@@ -49,6 +50,11 @@ public class MainActivity extends AppCompatActivity  {
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
+    if (ParseUser.getCurrentUser()!=null){
+      Log.i("Logged In ", "User: "+ParseUser.getCurrentUser().getUsername());
+      showUsersList();
+
+    }
     setContentView(R.layout.activity_main);
     usernameEditText = (EditText) findViewById(R.id.usernameEditText);
     passwordEditText = (EditText) findViewById(R.id.passwordEditText);
@@ -90,7 +96,7 @@ public class MainActivity extends AppCompatActivity  {
         }
         Log.i("Sign Up ", "User: "+user.getUsername());
         Toast.makeText(MainActivity.this, "Sign Up User: "+user.getUsername(), Toast.LENGTH_SHORT).show();
-
+        showUsersList();
       }
     });
   }
@@ -110,6 +116,7 @@ public class MainActivity extends AppCompatActivity  {
           return;
         }
         Log.i("Login ", "User: "+user.getUsername());
+        showUsersList();
       }
     });
 
@@ -138,14 +145,12 @@ public class MainActivity extends AppCompatActivity  {
     }
     signup = !signup;
   }
-  public static void setKeyboard(Context context, View view,Boolean show) {
-    InputMethodManager imm = (InputMethodManager) context.getSystemService(Activity.INPUT_METHOD_SERVICE);
-    if (show){
-      imm.showSoftInputFromInputMethod(view.getWindowToken(), 0);
-    }else {
-      imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
-    }
-
+  public void closeKeyboard(View view) {
+    InputMethodManager imm = (InputMethodManager) getSystemService(Activity.INPUT_METHOD_SERVICE);
+    imm.hideSoftInputFromWindow(view.getWindowToken(),0);
   }
-
+  public void showUsersList(){
+    Intent intent = new Intent(getApplicationContext(), UsersActivity.class);
+    startActivity(intent);
+  }
 }
