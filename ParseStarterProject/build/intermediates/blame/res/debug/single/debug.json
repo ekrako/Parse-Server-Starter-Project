@@ -204,12 +204,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxxhdpi-v4/quantum_ic_pause_circle_filled_grey600_36.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_cast_ic_notification_1.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/17b4f69a690cbf60fd0ad158b2d368c9/res/drawable-hdpi-v4/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_light_disabled.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_plusone_small_off_client.png.flat",
@@ -220,16 +220,16 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-xhdpi/ic_pause_light.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_stop_grey600_36.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxhdpi-v4/quantum_ic_stop_grey600_36.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_stop_grey600_36.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxhdpi-v4/quantum_ic_stop_grey600_36.png"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_pressed.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_replay_30_white_24.png.flat",
@@ -244,12 +244,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal.9.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
@@ -316,12 +316,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-tvdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_play_arrow_white_24.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_play_arrow_white_24.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_play_arrow_white_24.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxxhdpi-v4/quantum_ic_play_arrow_white_24.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_play_arrow_white_24.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_play_arrow_white_24.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -340,12 +340,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xxhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_refresh_white_24.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_refresh_white_24.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_refresh_white_24.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_refresh_white_24.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_art_track_grey600_48.png.flat",
@@ -368,12 +368,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_art_track_grey600_48.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_skip_next_grey600_36.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-mdpi-v4/quantum_ic_skip_next_grey600_36.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_quantum_ic_skip_next_grey600_36.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-mdpi-v4/quantum_ic_skip_next_grey600_36.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_skip_next_white_24.png.flat",
@@ -432,12 +432,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi_ic_media_route_on_mono_dark.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-mdpi/ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
@@ -448,28 +448,28 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-hdpi/ic_media_route_on_0_mono_dark.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_volume_off_grey600_36.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_volume_off_grey600_36.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_google_signin_btn_icon_dark_disabled.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-nodpi-v4_cast_mini_controller_img_placeholder.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-nodpi-v4/cast_mini_controller_img_placeholder.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-nodpi-v4_cast_album_art_placeholder_large.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-nodpi-v4/cast_album_art_placeholder_large.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-nodpi-v4_cast_mini_controller_img_placeholder.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-nodpi-v4/cast_mini_controller_img_placeholder.png"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_pressed.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_media_route_on_0_mono_dark.png.flat",
@@ -508,12 +508,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/abc_expanded_menu_layout.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
@@ -528,12 +528,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-mdpi/ic_play_light.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_ic_googleplayservices.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_cast_ic_notification_1.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/17b4f69a690cbf60fd0ad158b2d368c9/res/drawable-mdpi-v4/cast_ic_notification_1.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_ic_googleplayservices.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
@@ -588,12 +588,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_connecting.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/17b4f69a690cbf60fd0ad158b2d368c9/res/drawable/cast_ic_notification_connecting.xml"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_connecting.xml.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/17b4f69a690cbf60fd0ad158b2d368c9/res/drawable/cast_ic_notification_connecting.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_plus_signin_btn_icon_light_focused.9.png.flat",
@@ -616,12 +616,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_skip_next_white_36.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_ic_notification_disconnect.xml.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_plus_signin_btn_icon_dark_normal.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_pause_circle_filled_grey600_36.png.flat",
@@ -748,24 +748,24 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/17b4f69a690cbf60fd0ad158b2d368c9/res/drawable-hdpi-v4/cast_ic_notification_2.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable/abc_btn_radio_material.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_pause_grey600_36.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxhdpi-v4/quantum_ic_pause_grey600_36.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_pause_grey600_36.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxhdpi-v4/quantum_ic_pause_grey600_36.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -856,20 +856,20 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-tvdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_replay_10_white_24.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_replay_10_white_24.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-hdpi-v4/quantum_ic_play_circle_filled_white_36.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_replay_10_white_24.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_replay_10_white_24.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_text_dark_normal.9.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-tvdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-hdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_cast_mini_controller.xml.flat",
@@ -940,12 +940,12 @@
         "source": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_stop_grey600_36.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-hdpi-v4/quantum_ic_stop_grey600_36.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_cast_ic_notification_on.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-9.4.0.aar/17b4f69a690cbf60fd0ad158b2d368c9/res/drawable-mdpi-v4/cast_ic_notification_on.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_stop_grey600_36.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-hdpi-v4/quantum_ic_stop_grey600_36.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_play_circle_filled_white_36.png.flat",
@@ -956,12 +956,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/abc_screen_toolbar.xml"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_skip_next_white_24.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxhdpi-v4/quantum_ic_skip_next_white_24.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_common_plus_signin_btn_text_light_disabled.9.png.flat",
@@ -972,12 +972,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_play_circle_filled_grey600_36.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_play_circle_filled_grey600_36.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1016,12 +1016,12 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-xhdpi/ic_pause_dark.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_pause_white_24.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxxhdpi-v4/quantum_ic_pause_white_24.png"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4_quantum_ic_pause_grey600_48.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xhdpi-v4/quantum_ic_pause_grey600_48.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_pause_white_24.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-xxxhdpi-v4/quantum_ic_pause_white_24.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-tvdpi-v4_common_plus_signin_btn_icon_light_pressed.9.png.flat",
@@ -1040,28 +1040,28 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cast_light.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-xhdpi/ic_cast_light.png"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/f714d4dd41f38ebcec637a45991df83e/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_cast_tracks_chooser_dialog_layout.xml.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/layout/cast_tracks_chooser_dialog_layout.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_pause_circle_filled_white_36.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable-hdpi-v4/quantum_ic_pause_circle_filled_white_36.png"
     },
     {
-        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_cast_tracks_chooser_dialog_layout.xml.flat",
-        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/layout/cast_tracks_chooser_dialog_layout.xml"
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_plus_signin_btn_text_dark_focused.9.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi_ic_cast_light.png.flat",
+        "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-23.0.0.aar/b5ab1a7437b8d71355f52dc83c773bfd/res/drawable-xhdpi/ic_cast_light.png"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
@@ -2328,6 +2328,10 @@
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
     },
     {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_feed.xml.flat",
+        "source": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
+    },
+    {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_ic_googleplayservices.png.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-base-9.4.0.aar/89bc400819c2a241ce0a91efc5fe9887/res/drawable-xxhdpi-v4/common_ic_googleplayservices.png"
     },
@@ -2614,6 +2618,10 @@
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_cast_expanded_controller_bg_gradient_light.xml.flat",
         "source": "/home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu_share_menu.xml.flat",
+        "source": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/share_menu.xml"
     },
     {
         "merged": "/home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable-mdpi_ic_cast_light.png.flat",

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.android.support:multidex:1.0.2] /home/ekrako/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a0f38e9cbfd1393ca136eb8816e5f3d4/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/ace951513efa473fe702e7ba28530584/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/AndroidManifest.xml:2:1-10:12
@@ -60,20 +60,20 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/ekrako/.grad
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.4.0.aar/75d260544f9789baa0a82f011899cf8d/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.4.0.aar/75220c05fb7d61644201bf82ff35c871/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/a8708cc926822a99284ec657ef431b6e/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
@@ -136,7 +136,7 @@ ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/Parse
 	android:name
 		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
 application
-ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-26:19
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-27:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/ace951513efa473fe702e7ba28530584/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-9.4.0.aar/ace951513efa473fe702e7ba28530584/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/ekrako/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-9.4.0.aar/1dbcf21deb168506bb3114c6aaa5b3c9/AndroidManifest.xml:5:5-9:19
@@ -239,26 +239,30 @@ MERGED from [com.android.support:support-v4:23.4.0] /home/ekrako/.gradle/caches/
 		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
 	android:name
 		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
+activity#com.parse.starter.UserFeedActivity
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:19-51
 activity#com.parse.starter.UsersActivity
-ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-60
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-51
 	android:name
-		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:19-48
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:19-48
 activity#com.parse.starter.MainActivity
-ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-25:20
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-26:20
 	android:label
-		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-45
 	android:name
-		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:13-41
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-24:29
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:17-69
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:25-66
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:17-77
+ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:27-74
+		ADDED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:27-74
 uses-sdk
 INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/ekrako/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml

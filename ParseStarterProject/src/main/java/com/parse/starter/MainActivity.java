@@ -50,12 +50,14 @@ public class MainActivity extends AppCompatActivity
   @Override
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
+    setContentView(R.layout.activity_main);
+    setTitle("Instagram");
     if (ParseUser.getCurrentUser()!=null){
       Log.i("Logged In ", "User: "+ParseUser.getCurrentUser().getUsername());
       showUsersList();
 
     }
-    setContentView(R.layout.activity_main);
+
     usernameEditText = (EditText) findViewById(R.id.usernameEditText);
     passwordEditText = (EditText) findViewById(R.id.passwordEditText);
     passwordEditText.setOnKeyListener(new View.OnKeyListener() {
